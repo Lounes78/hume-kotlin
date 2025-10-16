@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HumeAITest" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/hume_primary</item>
+        <item name="colorPrimaryDark">@color/hume_primary_dark</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Theme.HumeAITest" parent="Base.Theme.HumeAITest" />
+</resources>

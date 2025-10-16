@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hume AI Test</string>
+    <string name="connect_button">Connect to Hume AI</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="status_label">Status:</string>
+    <string name="messages_label">Messages:</string>
+    <string name="status_ready">Ready to connect</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_connected">Connected - Say something!</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="permission_required">Microphone permission required</string>
+    <string name="permission_granted">Microphone permission granted</string>
+</resources>
