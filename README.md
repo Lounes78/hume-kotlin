@@ -32,7 +32,7 @@ app/src/main/java/com/hume/
 - **Incoming**: `UserMessage`, `AssistantMessage`, `AudioOutput`, `ToolCall`, `EmotionScores`
 - **Outgoing**: `AudioInput`, `SessionSettings`, `UserInput`, `ToolResponse`, `ToolError`
 
-## 📦 Dependencies
+## Dependencies
 
 - **OkHttp 4.x**: WebSocket communication and HTTP client
 - **Gson**: JSON serialization and deserialization  
